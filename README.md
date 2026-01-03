@@ -4,3 +4,4 @@ This was a project of FAST national university of computing and emerging science
 
 ## How to run the game
 Clone the repository and you wil see an "Exe" folder. You have to copy the font, img and song folder in the "Exe" folder and then run the "OOP Final Project".exe file in the Exe folder.
+Star this if you like this project!
